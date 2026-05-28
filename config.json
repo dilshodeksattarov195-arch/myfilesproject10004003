@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedonnect",
+        "uuid": 23557655,
+        "checksum": "suz0xc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
